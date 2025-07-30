@@ -7,7 +7,7 @@ import {
   MapPin, 
   Code, 
   BookOpen, 
-  Briefcase, 
+  Briefcase,
   User, 
   Send, 
   Moon, 
